@@ -31,7 +31,8 @@ document.addEventListener( 'DOMContentLoaded', function() {
         'M10,6 Q10,0 15,0 T20,6 Q20,10 15,14 T10,20 Q10,18 5,14 T0,6 Q0,0 5,0 T10,6 Z',
         {
             top: 150, left: 250,
-            fill: '#D81B60', scaleX: 5, scaleY: 5
+            fill: '#D81B60', scaleX: 5, scaleY: 5,
+            backgroundColor: 'rgba(69,90,100,0.1)',
         }
     );
 
